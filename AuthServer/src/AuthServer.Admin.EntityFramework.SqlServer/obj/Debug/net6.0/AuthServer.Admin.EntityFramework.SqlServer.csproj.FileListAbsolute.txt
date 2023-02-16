@@ -1,0 +1,15 @@
+D:\AuthServer\AuthServer\src\AuthServer.Admin.EntityFramework.SqlServer\bin\Debug\net6.0\AuthServer.Admin.EntityFramework.SqlServer.deps.json
+D:\AuthServer\AuthServer\src\AuthServer.Admin.EntityFramework.SqlServer\bin\Debug\net6.0\AuthServer.Admin.EntityFramework.SqlServer.dll
+D:\AuthServer\AuthServer\src\AuthServer.Admin.EntityFramework.SqlServer\bin\Debug\net6.0\AuthServer.Admin.EntityFramework.SqlServer.pdb
+D:\AuthServer\AuthServer\src\AuthServer.Admin.EntityFramework.SqlServer\bin\Debug\net6.0\AuthServer.Admin.EntityFramework.Shared.dll
+D:\AuthServer\AuthServer\src\AuthServer.Admin.EntityFramework.SqlServer\bin\Debug\net6.0\AuthServer.Admin.EntityFramework.Shared.pdb
+D:\AuthServer\AuthServer\src\AuthServer.Admin.EntityFramework.SqlServer\obj\Debug\net6.0\AuthServer.Admin.EntityFramework.SqlServer.csproj.AssemblyReference.cache
+D:\AuthServer\AuthServer\src\AuthServer.Admin.EntityFramework.SqlServer\obj\Debug\net6.0\AuthServer.Admin.EntityFramework.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\AuthServer\AuthServer\src\AuthServer.Admin.EntityFramework.SqlServer\obj\Debug\net6.0\AuthServer.Admin.EntityFramework.SqlServer.AssemblyInfoInputs.cache
+D:\AuthServer\AuthServer\src\AuthServer.Admin.EntityFramework.SqlServer\obj\Debug\net6.0\AuthServer.Admin.EntityFramework.SqlServer.AssemblyInfo.cs
+D:\AuthServer\AuthServer\src\AuthServer.Admin.EntityFramework.SqlServer\obj\Debug\net6.0\AuthServer.Admin.EntityFramework.SqlServer.csproj.CoreCompileInputs.cache
+D:\AuthServer\AuthServer\src\AuthServer.Admin.EntityFramework.SqlServer\obj\Debug\net6.0\AuthServer.Admin.EntityFramework.SqlServer.csproj.CopyComplete
+D:\AuthServer\AuthServer\src\AuthServer.Admin.EntityFramework.SqlServer\obj\Debug\net6.0\AuthServer.Admin.EntityFramework.SqlServer.dll
+D:\AuthServer\AuthServer\src\AuthServer.Admin.EntityFramework.SqlServer\obj\Debug\net6.0\refint\AuthServer.Admin.EntityFramework.SqlServer.dll
+D:\AuthServer\AuthServer\src\AuthServer.Admin.EntityFramework.SqlServer\obj\Debug\net6.0\AuthServer.Admin.EntityFramework.SqlServer.pdb
+D:\AuthServer\AuthServer\src\AuthServer.Admin.EntityFramework.SqlServer\obj\Debug\net6.0\ref\AuthServer.Admin.EntityFramework.SqlServer.dll

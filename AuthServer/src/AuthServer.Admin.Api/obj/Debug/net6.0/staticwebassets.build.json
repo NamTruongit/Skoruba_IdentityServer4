@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Re3Uw9u+JKJ/lCPBiPT6/tI8ZBNcFPjYTGKzDpzmsQ0=",
+  "Source": "AuthServer.Admin.Api",
+  "BasePath": "_content/AuthServer.Admin.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
